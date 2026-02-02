@@ -1,4 +1,4 @@
-# 🌸 Hi! I’m Ipshita
+# 🌸 Hi, I’m Ipshita!
 ♡ Final-year B.Tech student with practical experience in web development and academic research  <br>♡ Enjoy building clean, responsive interfaces and solving problems through structured analysis  <br>♡ Frontend skills: HTML, CSS, JavaScript, Bootstrap  <br>♡ Core strengths: Research & analysis, problem-solving, technical writing  <br>♡ Experience includes a research internship with literature review & data documentation  <br>♡ Currently learning advanced JavaScript and real-world system design concepts  <br>♡ Calm, consistent, and curious — actively pursuing growth-driven software roles <br>
 
 
