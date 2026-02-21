@@ -8,13 +8,13 @@ Currently strengthening my JavaScript fundamentals and deepening my understandin
 
 ---
 
-## 🔵 Currently Working On
+# 🔵 Currently Working On
 
 Smart Complaint Management System — a full-stack platform designed around structured workflows, role-based interaction, and backend-driven data management.
 
 ---
 
-## 🟡 My Socials
+# 🟡 My Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ipshita-chatterjee) 
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ipshitachatterjee19@gmail.com)
 
