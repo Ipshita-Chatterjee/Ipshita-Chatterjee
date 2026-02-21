@@ -2,7 +2,7 @@
 
 Third-year B.Tech student building structured web applications with a focus on clarity, backend logic, and practical system flow.
 
-I’m particularly interested in how applications work beyond the interface — authentication, database design, API integration, and organized data handling. My approach to development is methodical and detail-oriented, shaped by both hands-on web projects and academic research experience.
+I’m particularly interested in how applications work beyond the interface — authentication, database design, API integration, and organized data handling. <br> My approach to development is methodical and detail-oriented, shaped by both hands-on web projects and academic research experience.
 
 Currently strengthening my JavaScript fundamentals and deepening my understanding of real-world system design.
 
